@@ -4,7 +4,7 @@ Here is a simpler version you can use.
 
 # 📊 Project Overview — Beginner Version
 
-```markdown
+
 # 🏆 Enterprise Database Reliability, Performance & Cost Intelligence Platform
 ![home img](./screenshots/1.png)
 ----
@@ -65,7 +65,7 @@ Power BI
 Charts & KPIs
    ↓
 Business Insights
-```
+
 
 ---
 
