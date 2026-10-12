@@ -1,0 +1,11 @@
+application_id,application_name,application_type,business_unit,criticality
+1,E-Commerce App,API,Finance,Critical
+2,Payment API,Mobile,Analytics,Low
+3,Customer Portal,Web Application,Analytics,Medium
+4,Order Management,Analytics,Finance,Medium
+5,Inventory System,API,Sales,Medium
+6,Reporting Service,Reporting,IT,Low
+7,Analytics Platform,Analytics,Sales,Low
+8,Employee Portal,Web Application,Sales,Low
+9,Notification Service,Internal Application,Customer Service,High
+10,Mobile Application,Internal Application,Customer Service,High

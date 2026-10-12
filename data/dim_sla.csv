@@ -1,0 +1,5 @@
+sla_id,severity,response_target_minutes,resolution_target_minutes,availability_target_percent
+1,Low,240,1440,99.0
+2,Medium,120,720,99.5
+3,High,60,240,99.9
+4,Critical,15,120,99.99

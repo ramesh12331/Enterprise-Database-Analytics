@@ -1,0 +1,16 @@
+database_id,database_name,database_type,risk_level,environment,region
+1,DB-001,Payment,Critical,Development,South India
+2,DB-002,Customer,Low,Production,Central US
+3,DB-003,Analytics,High,Production,Central US
+4,DB-004,Internal,Low,Development,West US
+5,DB-005,Payment,Low,Production,South India
+6,DB-006,Payment,Low,Production,West US
+7,DB-007,Payment,Critical,Production,Central US
+8,DB-008,Payment,Medium,Production,Central US
+9,DB-009,Customer,Medium,Production,West US
+10,DB-010,Payment,Critical,Production,West US
+11,DB-011,OLTP,Low,Production,North Europe
+12,DB-012,Payment,Low,Production,Central US
+13,DB-013,Internal,Medium,Production,North Europe
+14,DB-014,Reporting,Medium,Production,North Europe
+15,DB-015,Internal,Low,Development,North Europe
